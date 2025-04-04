@@ -1,0 +1,3 @@
+C:/Users/hayag/OneDrive/Desktop/CS2-Calculator-WafaaSamir/CS2-Calculator-WafaaSamir/build/CMakeFiles/calculator.dir
+C:/Users/hayag/OneDrive/Desktop/CS2-Calculator-WafaaSamir/CS2-Calculator-WafaaSamir/build/CMakeFiles/edit_cache.dir
+C:/Users/hayag/OneDrive/Desktop/CS2-Calculator-WafaaSamir/CS2-Calculator-WafaaSamir/build/CMakeFiles/rebuild_cache.dir
