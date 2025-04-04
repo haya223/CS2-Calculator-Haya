@@ -1,1 +1,1 @@
-# CS2 Calculator Library
+# CS2 Calculator
